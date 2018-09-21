@@ -1,0 +1,20 @@
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\ANIF\Desktop\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\01\Anif\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
